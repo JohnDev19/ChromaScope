@@ -289,7 +289,7 @@
         ctx.fillRect(x, y, swatchWidth, swatchHeight);
         ctx.shadowBlur = 0;
         ctx.fillStyle = 'white';
-        ctx.font = '40px Inter, sans-serif';
+        ctx.font = '30px Inter, sans-serif';
         ctx.textAlign = 'center';
         
         const colorName = colorNames[index] || colorValue;
@@ -417,7 +417,7 @@
                         Extracting...
                     </span>
                 ) : (
-                    'Extract Colors'
+                    'Extract'
                 )}
             </button>
         </div>
