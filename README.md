@@ -4,7 +4,10 @@
 
 ChromaScope is a just a simple web application that allows users to extract color palettes from images.
 
-![ChromaScope Preview]()
+![ChromaScope Preview](IMG_20241121_194003.jpg)
+![ChromaScope Preview](IMG_20241121_194021.jpg)
+
+
 
 ## 🌟 Features
 
